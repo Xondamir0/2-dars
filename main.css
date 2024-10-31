@@ -1,0 +1,264 @@
+.header {
+
+    padding-top: 30px;
+
+}
+
+.container {
+    max-width: 1100px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.hero__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 60px;
+}
+
+.header__link {
+
+    text-decoration: none;
+    color: rgb(54, 56, 83);
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    transition: 0.5s ease-in-out;
+
+
+}
+
+.header__link:hover {
+    transition: 0.5s ease-in-out;
+    color: rgb(255, 104, 56);
+}
+
+.header__button {
+    border-radius: 5px;
+    box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+    background: rgb(255, 122, 80);
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    padding: 10px;
+    text-align: center;
+    width: 120px;
+    border: none;
+}
+
+.hero__title {
+    font-family: "Rubik";
+    font-size: 66px;
+    font-weight: 500;
+    line-height: 78px;
+    text-transform: capitalize;
+    width: 530px;
+}
+
+span {
+    color: rgb(255, 104, 56);
+
+}
+
+.hero__wrapper {
+    max-width: 250px;
+    text-align: left;
+    margin-right: 30px;
+}
+
+.hero__text {
+    color: rgb(54, 56, 83);
+    font-family: "Rubik";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-transform: capitalize;
+    width: 513px;
+}
+
+-.hero__button {
+    border-radius: 5px;
+    box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+    background: rgb(255, 122, 80);
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    padding: 10px;
+    text-align: center;
+    width: 120px;
+    border: none;
+}
+
+.section__title {
+    color: rgb(54, 56, 83);
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.section__main {
+    display: flex;
+    width: 100%;
+}
+
+.section__text {
+
+    font-family: Rubik;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+    display: block;
+
+}
+
+.hero_p {
+    color: rgb(54, 56, 83);
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.main__button {
+    border-radius: 5px;
+    box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+    background: rgb(255, 122, 80);
+    padding: 10px;
+    border: none;
+    width: 163px;
+}
+
+.section__button {
+    border-radius: 5px;
+    box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+    background: rgb(255, 122, 80);
+    padding: 10px;
+    border: none;
+    width: 163px;
+    border-radius: 20px 20px 0px 20px;
+}
+
+.wrapper__title {
+    font-family: Rubik;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.wrapper__list {
+    list-style: none;
+    background: rgb(255, 255, 255);
+
+}
+
+.sss {
+    display: flex;
+
+}
+
+h3 {
+    color: rgb(54, 56, 83);
+    font-family: Rubik;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.wrapper__text {
+    color: rgb(54, 56, 83);
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.wrapper__item {
+    display: flex;
+    gap: 10px;
+}
+
+.item__text {
+    font-family: Rubik;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 50px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.item__title {
+    color: rgb(54, 56, 83);
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 538px;
+}
+
+.item {
+    display: flex;
+    margin-top: 162px;
+}
+
+.footer {
+    max-width: 1170px;
+    height: 312px;
+    border-radius: 20px;
+    background: rgb(255, 122, 80);
+}
+
+.footer__title {
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 47px;
+    padding-top: 59px;
+    text-align: center;
+}
+
+.footer__wrapper {
+    border-radius: 70px;
+    box-shadow: 10px 24px 54px 0px rgba(0, 0, 0, 0.07);
+    width: 838.5px;
+    height: 78px;
+    background: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+
+.footer__text {
+    padding-top: 26px;
+    padding-left: 20px;
+    color: rgb(54, 56, 83);
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
